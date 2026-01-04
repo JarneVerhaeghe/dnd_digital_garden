@@ -9,11 +9,6 @@
 ## Flavor Text
 Logrinnstadt  is een stad midden op een groot meer, geconnecteerd met een grote brug, langs 1 kant maar. Het meer is ook volgebouwd. Het water is groenblauw. Het zand is wit met groene stenen, deze groene stenen geven de groene schijn van het water. Aan de overkant van het meer is een oud dennenwoud. Begin van de brug is ook volgebouwd. Denk meer aan Venetie. Veel bruggen, water, en boten. De gebouwen zijn gemaakt van witte bakstenen met groene accenten. Zeer harde fan van bogen overal, heeft een elfen sfeer. Was origineel ook een stad van elfen. Hoge torens etc, elegante bouwwerken. Maar door de recente ontwikkelingen krijg je ook meer simpele bouwwerken met zwarte stenen, bakstenen etc. De kern is elegant, de rand begint hout en baksteen te worden.
 
-## Link generator:
-https://www.kassoon.com/dnd/town-generator/51/1715107018064238/1715107018064238//
-
-## Tavern names
-
 
 ## The council
 A large building with many white spikes.  

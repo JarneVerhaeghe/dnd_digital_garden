@@ -6,7 +6,6 @@
 ## Background
 Eldingborg, famous from the Convention of Eldingborg marking the start of the new era, did not change since the beginning of the Ascension wars, except for the construction of some settlements at the base of the Northern peaks. Originally founded by the raiding party's from across the large sea, the city has become the famous Neutral but Lawless city. It is still the centre of world politics and is seen as the governor of the diplomatic relations between all nations. No one knows the secret of Eldingborg in keeping their city across centuries but all respect this small city-state.
 
-The main governing people in Eldingborg are Aasimar. This explains their quest from the old gods to govern and save Nokadran from destruction, ruin, and chaos. 
 
 
 ## Organizations
