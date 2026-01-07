@@ -18,7 +18,7 @@ The creation of [[D&D - Nokadran World/World/Aknean Federation/The Aknean Federa
 ### 430 ACE: The Liberators Rebellion in Padurark
 ### 431 ACE: The Coup of the Undying Empire
 The [[D&D - Nokadran World/World/Undying Empire/Organizations/Necromantic Council of the Undying Empire\|Necromantic Council of the Undying Empire]] got overthrown by the Captors and a new regime was put in place
-### 443-445 ACE: The Great Famine
+### 443-447 ACE: The Great Famine
 The eruption of [[D&D - Nokadran World/World/Undying Empire/Other/Mount Rafell\|Mount Rafell]] sent a tectonic shiver through the continent, but its true weapon was the sky. A persistent ash-plume choked the sun for two years, devastating the grain-producing plains of [[D&D - Nokadran World/World/Undying Empire/The Undying Empire\|The Undying Empire]]. Still recovering from its own internal instabilities in 431 ACE, the Empire’s leadership failed to manage the disaster, and the "Grain Shed of Nokadran" withered.
 
 - **The Hunger:** [[D&D - Nokadran World/World/Aknean Federation/The Aknean Federation of the United races\|The Aknean Federation of the United races]] and the [[D&D - Nokadran World/World/Nalar Kingdom/The Nalar Kingdom\|The Nalar Kingdom]], dependent on imperial exports, plummeted into mass starvation. Millions perished as bread lines turned into riots.
