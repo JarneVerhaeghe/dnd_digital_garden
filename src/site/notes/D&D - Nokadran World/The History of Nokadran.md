@@ -37,4 +37,4 @@ The end of the Grain Conflict fundamentally reshaped [[D&D - Nokadran World/Worl
 3. **The West (The Sepulcher-Plains):** This region, which was unaffected by the eruption, refused all "modern" interventions, sticking to the traditional undead way, which there were plenty now. 
 Although the empire has full autonomy, three cultural regions began to form with a divide where undead are less needed in specific regions. 
 
-### 471 ACE: Now
+### 461 ACE: Now
