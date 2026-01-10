@@ -23,5 +23,6 @@ At the start of the new era, this nation originally encompassed the entirety of 
 - [[D&D - Nokadran World/World/Aknean Federation/Towns and Cities/Paduvegr\|Paduvegr]]
 - [[D&D - Nokadran World/World/Aknean Federation/Towns and Cities/Pebble\|Pebble]]
 - [[D&D - Nokadran World/World/Aknean Federation/Towns and Cities/Walborg\|Walborg]]
+- [[D&D - Nokadran World/World/Aknean Federation/Towns and Cities/Klettran\|Klettran]]
 ## Regions
 - [[D&D - Nokadran World/World/Aknean Federation/Other/Everdusk Woods\|Everdusk Woods]]
