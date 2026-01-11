@@ -4,7 +4,7 @@
 
 # The Countries of Nokadran
 There are 6 main countries in Nokadran and one oceanic nation
-![nokadran world map.jpg](/img/user/Cosplay/Figures/nokadran%20world%20map.jpg)
+![nokadran_world_map_expanded.jpg](/img/user/Figures/nokadran_world_map_expanded.jpg)
 - [[D&D - Nokadran World/World/Undying Empire/The Undying Empire\|The Undying Empire]]
 - [[D&D - Nokadran World/World/Drania/Drania\|Drania]]
 - [[D&D - Nokadran World/World/Aknean Federation/The Aknean Federation of the United races\|The Aknean Federation of the United races]]
