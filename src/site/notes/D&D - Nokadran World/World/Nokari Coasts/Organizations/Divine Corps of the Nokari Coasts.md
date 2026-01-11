@@ -10,3 +10,5 @@ The Divine Corps is the military organization and the army of the Nokari Coasts 
 There are multiple units (in ascending order of importance): Guard, Soldier, Officer, Templar, High Templar, Paladin, Cleric, Arch Paladin/Arch Cleric, Cardinal, The Pontifex. 
 
 The cleric rank and below only have a military function, starting from the Arch Paladin rank, these start to exert political power. Every diocese (NL: bisdom) is led by either an Arch Paladin or an Arch Cleric. Every city or village in the diocese is led by a representative chosen by the Arch Clergy.
+
+There is also a navy version: The Divine Navy, boats of paladins and justiciars with smokes of incense. 

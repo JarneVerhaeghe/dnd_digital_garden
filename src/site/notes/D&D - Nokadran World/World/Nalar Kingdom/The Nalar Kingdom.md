@@ -60,7 +60,6 @@ The convention of Eldingborg gave all Ascended, and those following the path to 
 
 - **Internal Conflicts**: Tensions between Nobles and commoners, fueled by rumors of dark practices and the strict social hierarchy.
 - **External Threats**: Neighboring kingdoms eye Nalar's resources, and magical beasts roam the wilderness.
-- **Quests and Adventures**: Opportunities abound for adventurers to uncover the truth behind the rumors, protect the kingdom from external threats, or seek their own path to Ascension. There are many ruins of the old world here in the tundra and the mountains (dwarves and gnomes). Also there are rumoured old dragons roaming the mountains.
 ### Notable Locations
 
 - **Capital City**: [[D&D - Nokadran World/World/Nalar Kingdom/Towns and Cities/Nalaris - Capital\|Nalaris - Capital]]
