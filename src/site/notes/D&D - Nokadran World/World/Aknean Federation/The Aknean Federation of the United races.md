@@ -3,6 +3,7 @@
 ---
 
 # The Aknean Federation of the United races
+![aknean_federation_map.jpg](/img/user/Figures/aknean_federation_map.jpg)
 ## Background
 At the start of the new era, this nation originally encompassed the entirety of the southern lands below the mountains being the home of those following the living. After the religious revolution in the coastal city's of Nokari, the nation split into the Aknean federation west of the river and the Nokari Coasts to the East. The Aknean Federation is known for its religious freedom and democratic structure run by the Great Council and bound by the history of the Ascension wars. Every major race that participated in the Ascension wars is represented by three elected representatives and every five years, all representatives elect the High Speaker to represent the Aknean Federation. Due to the gathering of many races and cultures, this nation sprung as the nation of technology and is the driving motor for innovation in Nokadran.
 

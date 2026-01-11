@@ -3,6 +3,7 @@
 ---
 
 # The Nalar Kingdom
+![nalar_kingdom_map.jpg](/img/user/Figures/nalar_kingdom_map.jpg)
 ## Background
 The convention of Eldingborg gave all Ascended, and those following the path to immortality, their own country to avoid a second Ascension war. This country is led by the disciples of Nalar The First and they founded a kingdom, governed by those that received his blood. The disciples restricted the birth of new Ascended to those that prove themselves to the kingdom. Many people migrated to this country in search of eternal life and the thought of escaping death and awaiting Ascension. The inhabitants of the Nalar kingdom refer to themselves as the Nalari and society is structurally divided into those that Ascended and those that did not (yet?). In the kingdom, Ascended are referred as Nobles, as they have proven themselves to be worthy of the title to the nation and devote the rest of their immortal life to developing the kingdom and guiding those that have not ascended yet. However, many dark rumours about these unknown Nobles exist.
 ## Organizations

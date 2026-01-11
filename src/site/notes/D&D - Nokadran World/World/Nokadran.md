@@ -3,7 +3,7 @@
 ---
 
 # Nokadran World Map
-![nokadran world map.jpg](/img/user/Cosplay/Figures/nokadran%20world%20map.jpg)
+![nokadran_world_map_expanded.jpg](/img/user/Figures/nokadran_world_map_expanded.jpg)
 # The Short History of Nokadran
 ## Prologue
 

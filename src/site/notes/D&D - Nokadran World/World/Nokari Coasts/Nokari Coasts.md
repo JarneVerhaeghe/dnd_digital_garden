@@ -3,7 +3,8 @@
 ---
 
 # Nokari Coasts
-## Intro
+![Nokari_coasts_map.jpg](/img/user/Figures/Nokari_coasts_map.jpg)
+## Background
 The Nokari coasts split 109 years after the convention of Eldenborg from the Aknean federation due to different religious and economical beliefs. The people of the Nokari coasts can be considered as extremely religious people where freedom of religion is non-existent. As they believe that this freedom was the true reason for the beginning of the Ascension wars. Religion and magic are governed and licensed by the theocratic state, however, economically they are fully libertarian resulting in a very mercantile but conservative nation, taking advantage of its geographical location. The country is led by a theocratic leader called the Pontifex. 
 ## Organizations
 - [[D&D - Nokadran World/World/Nokari Coasts/Organizations/Divine Corps of the Nokari Coasts\|Divine Corps of the Nokari Coasts]]

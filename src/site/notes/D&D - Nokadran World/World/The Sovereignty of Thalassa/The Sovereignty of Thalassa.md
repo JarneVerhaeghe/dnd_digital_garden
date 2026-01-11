@@ -3,6 +3,7 @@
 ---
 
 # The Sovereignty of Thalassa
+![sovereignty_map.jpg](/img/user/Figures/sovereignty_map.jpg)
 ## Background
 The sovereignty is located in [[D&D - Nokadran World/World/The Sovereignty of Thalassa/The Silent Reefs\|The Silent Reefs]] and are followers of [[D&D - Nokadran World/Gods/Thalassa - The Chained Goddess of the Sea\|Thalassa - The Chained Goddess of the Sea]].  They are a Stratocracy (Military Rule) balanced by a Guild-based Bureaucracy, called the High Registry. 
 
