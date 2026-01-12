@@ -27,7 +27,7 @@ Detailed history: [[D&D - Nokadran World/The History of Nokadran\|The History of
 [[D&D - Nokadran World/World/The Countries of Nokadran\|The Countries of Nokadran]]
 
 # Gods
-[[D&D - Nokadran World/Gods/The Gods of Nokadran\|The Gods of Nokadran]]
+[[D&D - Nokadran World/Gods/Index - The Gods of Nokadran\|Index - The Gods of Nokadran]]
 
 # Nokadran-wide Organizations
 [[D&D - Nokadran World/Organizations/Organizations\|Organizations]]
