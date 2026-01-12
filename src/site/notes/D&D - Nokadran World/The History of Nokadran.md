@@ -6,10 +6,14 @@
 ## The Unknown Times
 ### 150 BCE (Before Convention of Eldingborg) Nalar the first became the first Ascended
 
+---
+
 ## 150 BCE - 0 BCE: The Ascension Wars
 ### 47 - 46 BCE: The Great Cleansing
 The Great Cleansing caused by [[D&D - Nokadran World/Gods/Thalassa - The Chained Goddess of the Sea\|Thalassa - The Chained Goddess of the Sea]]
 ### 30 BCE - 0 BCE: The Purge
+
+---
 
 ## 0 ACE - Now: The New Age
 ### 0 ACE: The Convention of Eldingborg
