@@ -30,7 +30,7 @@ Detailed history: [[D&D - Nokadran World/The History of Nokadran\|The History of
 [[D&D - Nokadran World/Gods/Index - The Gods of Nokadran\|Index - The Gods of Nokadran]]
 
 # Nokadran-wide Organizations
-[[D&D - Nokadran World/Organizations/Organizations\|Organizations]]
+[[D&D - Nokadran World/Organizations/Index - Organizations\|Index - Organizations]]
 
 # Celestial Bodies
 [[D&D - Nokadran World/World/Celestial Bodies\|Celestial Bodies]]
