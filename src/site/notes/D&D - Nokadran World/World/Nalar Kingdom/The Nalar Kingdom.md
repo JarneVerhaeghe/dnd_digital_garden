@@ -16,6 +16,7 @@ The convention of Eldingborg gave all Ascended, and those following the path to 
 - [[D&D - Nokadran World/World/Nalar Kingdom/Towns and Cities/Nalaris - Capital\|Nalaris - Capital]]
 - [[D&D - Nokadran World/World/Nalar Kingdom/Towns and Cities/Nalargrad\|Nalargrad]]
 - [[D&D - Nokadran World/World/Nalar Kingdom/Towns and Cities/Logris\|Logris]]
+- [[D&D - Nokadran World/World/Nalar Kingdom/Towns and Cities/Cyngsdale\|Cyngsdale]]
 - [[D&D - Nokadran World/World/Nalar Kingdom/Towns and Cities/The Blood Keep\|The Blood Keep]]
 - [[D&D - Nokadran World/World/Nalar Kingdom/Towns and Cities/The Spire of Neltuna\|The Spire of Neltuna]]
 

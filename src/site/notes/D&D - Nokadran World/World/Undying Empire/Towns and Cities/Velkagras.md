@@ -3,7 +3,7 @@
 ---
 
 # Velkagras
-## Flavor text
+## Appearance
 In the heart of the Undying Empire lies a city shrouded in eternal darkness and veiled in an ominous shroud of mystery—the Great Necropolis City of Velkagras. In this haunting metropolis, life's pulse has long since faded, replaced by the relentless march of the undead and the eerie echoes of a bygone era. Velkagras is a place where the living dare not tread, for it belongs solely to the realm of the deceased.
 
 Upon first approach, one is greeted by towering obsidian spires that claw at the lifeless sky, their jagged forms like the skeletal remains of some ancient, monstrous beast. These grim edifices, adorned with intricate carvings of forgotten necromantic spells and symbols, loom ominously over the city, casting long shadows that never wane. It is as though the very architecture itself serves as a grim testament to the unholy power that reigns here.

@@ -3,7 +3,7 @@
 ---
 
 # Logrinnstadt
-## Foto
+## Map
 ![logrinnstadt.png](/img/user/Cosplay/Figures/logrinnstadt.png)
 
 ## Flavor Text
