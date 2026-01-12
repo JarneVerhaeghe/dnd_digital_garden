@@ -3,7 +3,10 @@
 ---
 
 # Emosaer
-## Background
+## Description
+Emosaer functions as large industrial and mercantile city of [[D&D - Nokadran World/World/Nokari Coasts/Nokari Coasts\|Nokari Coasts]], a city defined by its central location on the mainland and its critical role in the trade of waterproof vestments, fine pottery, and Nokari vestments. As a hub for [[D&D - Nokadran World/World/Nokari Coasts/Organizations/The Radiant Merchant Guild\|The Radiant Merchant Guild]], the city's architecture reflects its environment, with buildings primarily constructed from local brick and clay supported by salt-resistant timber to survive the surrounding salt marshes and the coastal wind. The atmosphere is a thick sensory blend of brine from the sea and marshes, mixed with the heavy scent of holy incense, the silver-laced iconography of the Holy Couple found throughout the city center, and the scheduled prayers. While the [[D&D - Nokadran World/World/Nokari Coasts/Organizations/Holy Church of Aena and Emos\|Holy Church of Aena and Emos]] maintains a strong presence due to the city’s proximity to the capital, the theocratic laws are notably less strict here than in other Nokari cities to accommodate the vital flow of international commerce. The city is divided into specialized districts: the inner Cistern and Terrace Wards house the elite and administrative functions like **the Justiciary** and the **Basilica of the Holy Couple**, while the Market Place and Smoke Quay serve as the epicenter of (sea) trade. To the east, the large Sea Wall protects the sprawl and houses the "Loom-Cathedrals" where the city’s famous textiles are woven. The outskirts are a patchwork of medicinal herb patches and silk farming, though the terrain is treacherous; travellers who wander offroad risk falling into hidden swamp pits or the vast "Silt-Lands" that characterize the region.
+
+## Map
 ![emosaer.png](/img/user/Cosplay/Figures/emosaer.png)
 
 # City Breakdown
@@ -18,7 +21,7 @@ Located in the heart of the walled western section, this is the city's primary r
 
 ### Terrace Ward & Lower Terrace
 These districts represent the social ladder of Emosaer, positioned near the seat of local power.
-- **Terrace Ward:** The "Upper" terrace sits on the highest artificial ground, housing the elite **Merchant-Factors** and high-ranking members of the **Circle of Cardinals**.
+- **Terrace Ward:** The "Upper" terrace sits on the highest artificial ground, housing the elite **Merchants** and high-ranking members of the **Circle of Cardinals**.
 - **Lower Terrace:** A bustling district for the middle class, clerks of **The Radiant Merchant Guild**, and legal scribes of **The Tribunal of Balance**.
 - **The Fantasy:** Perpetual "Sun-Wards" are maintained here to cut through the perpetual salt-mist, keeping the orange brick buildings gleaming with golden light.
 
@@ -52,7 +55,7 @@ The northern fringe of the eastern sprawl, existing on the edge of the silt-land
 ## The Outskirts
 ### Silk Row & Salt Watch
 Located on the western periphery, these districts handle the "dirty work" of the city's defense and textiles.
-- **Silk Row:** An industrial strip dedicated to the cultivation of "Silk worms" and the initial processing of raw marsh-fibers into **Nokari-Parchment**.
+- **Silk Row:** An industrial strip dedicated to the cultivation of "Silk worms" and the initial processing of raw marsh-fibers into **Nokari vestments**.
 - **Salt Watch:** The southwestern garrison where the **Divine Corps** monitors the coastline for undead threats and maritime incursions.
 
 # Important Buildings

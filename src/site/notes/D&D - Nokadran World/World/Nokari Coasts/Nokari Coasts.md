@@ -47,6 +47,7 @@ The Nokari coasts split 109 years after the convention of Eldenborg from the Akn
     - **Apothecary:** Advanced medicines derived from marsh-herbs, sought throughout Nokadran and only producable in the Coasts.
     - **Textiles:** Waterproof and heat-resistant "Silk" and enchanted liturgical vestments.
     - **Pottery and glassware**: The high-quality clay and sand allows for strong and durable glass and pottery
+    - **Salt**: Given its coastal region, this country is the main exporter of salt worldwide
 - **Currency**: The official currency is the similar to the other countries, Gold pieces
 ### Religion and Beliefs
 
