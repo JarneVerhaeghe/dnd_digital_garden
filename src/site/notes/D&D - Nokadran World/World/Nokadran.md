@@ -24,7 +24,7 @@ After the last battle against the mindless on the Nokari peninsula, all great le
 Detailed history: [[D&D - Nokadran World/The History of Nokadran\|The History of Nokadran]]
 
 # Countries
-[[D&D - Nokadran World/World/The Countries of Nokadran\|The Countries of Nokadran]]
+[[D&D - Nokadran World/World/Index - The Countries of Nokadran\|Index - The Countries of Nokadran]]
 
 # Gods
 [[D&D - Nokadran World/Gods/Index - The Gods of Nokadran\|Index - The Gods of Nokadran]]
