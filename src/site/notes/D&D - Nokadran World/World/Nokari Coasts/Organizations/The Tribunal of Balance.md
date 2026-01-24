@@ -33,6 +33,6 @@ Located exactly halfway between the Grand Cathedral and the Guild’s Great Exch
 In this country, citizens don't just go to court; they go to **"The Weighting."** If a merchant is accused of hoarding or a priest is accused of embezzling, they are placed on the literal scales of the Tribunal. If the scales tip too far toward "Shadow" (guilt), the punishment is often **Total Forfeiture**: their wealth is seized by [[D&D - Nokadran World/World/Nokari Coasts/Organizations/The Radiant Merchant Guild\|The Radiant Merchant Guild]] and their soul is "excommunicated" by the Pontifex of [[D&D - Nokadran World/World/Nokari Coasts/Organizations/Holy Church of Aena and Emos\|Holy Church of Aena and Emos]], leaving them a non-person in the eyes of the law.
 
 ## Dutch Translations:
-- Tribunal of Balance = Het Tribunaal (van de Balans)
+- Tribunal of Balance = Het Tribunaal (der Balans)
 - Judiciary = Magistraat
 - Verifier = Toeziende
