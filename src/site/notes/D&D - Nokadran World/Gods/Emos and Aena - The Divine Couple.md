@@ -17,3 +17,4 @@ Alignment: Chaotic Good
 Female
 Domains: life, death, Tempest, Knowledge, War
 Alignment: Lawful Good
+

@@ -8,3 +8,4 @@ Oteus was one of the original Neutral Ones. He never mingled in the wars and was
 
 
 Domains: Knowledge, Nature, and Tempest
+
