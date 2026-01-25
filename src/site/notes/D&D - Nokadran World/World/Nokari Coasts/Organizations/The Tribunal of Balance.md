@@ -19,7 +19,7 @@ The High Justiciar is the **Chief Arbiter**. While the Pontifex prays for the pe
 Located exactly halfway between the Grand Cathedral and the Guild’s Great Exchange, the Hall of Aequitas is a marvel of architecture in Nokamarr.
 
 - **The Noon-Day Court:** The main trial chamber has a retractable ceiling. At high noon, the sun shines directly onto the "Great Balance," a massive set of scales made of white marble and gold.
-- **The Vault of Covenants:** Deep beneath the hall lies the storage for every "High Contract" ever signed. These documents are written in **Lumina Ink**, which glows brightly if the parties involved are acting in good faith, and fades to black if a party intends to betray the deal.
+- **The Vault of Contracts:** Deep beneath the hall lies the storage for every "High Contract" ever signed. These documents are written in **Lumina Ink**, which glows brightly if the parties involved are acting in good faith, and fades to black if a party intends to betray the deal.
 
 ### ## Symbols & Tools of Office
 
