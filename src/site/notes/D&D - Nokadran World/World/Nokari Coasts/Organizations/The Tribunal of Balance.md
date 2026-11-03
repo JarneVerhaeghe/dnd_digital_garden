@@ -23,11 +23,11 @@ Located exactly halfway between the Grand Cathedral and the Guild’s Great Exch
 
 ### ## Symbols & Tools of Office
 
-|**Object**|**Name**|**Purpose**|
-|---|---|---|
-|**The Primary Scale**|_The Weight of Truth_|A portable, enchanted set of scales that can detect the weight of a person’s "word."|
-|**The Justiciar’s Robes**|_The Prism Raiment_|Shimmering white robes that refract light into rainbows, symbolizing that the Truth has many facets but one source.|
-|**The Gavel**|_The Sun-Strike_|A hammer made of solid quartz that emits a sharp "crack" of thunder when a verdict is reached.|
+| **Object**                | **Name**              | **Purpose**                                                                                                         |
+| ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **The Primary Scale**     | _The Weight of Truth_ | A portable, enchanted set of scales that can detect the weight of a person’s "word."                                |
+| **The Justiciar’s Robes** | _The Prism Raiment_   | Shimmering white robes that refract light into rainbows, symbolizing that the Truth has many facets but one source. |
+| **The Gavel**             | _The Sun-Strike_      | A hammer made of solid quartz that emits a sharp "crack" of thunder when a verdict is reached.                      |
 
 ### ## Cultural Impact: "The Weighting"
 In this country, citizens don't just go to court; they go to **"The Weighting."** If a merchant is accused of hoarding or a priest is accused of embezzling, they are placed on the literal scales of the Tribunal. If the scales tip too far toward "Shadow" (guilt), the punishment is often **Total Forfeiture**: their wealth is seized by [[D&D - Nokadran World/World/Nokari Coasts/Organizations/The Radiant Merchant Guild\|The Radiant Merchant Guild]] and their soul is "excommunicated" by the Pontifex of [[D&D - Nokadran World/World/Nokari Coasts/Organizations/Holy Church of Aena and Emos\|Holy Church of Aena and Emos]], leaving them a non-person in the eyes of the law.
